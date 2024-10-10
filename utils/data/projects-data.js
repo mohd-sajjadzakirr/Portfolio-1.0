@@ -27,7 +27,14 @@ export const projectsData = [
         description: 'Developed a clipboard sharing app for data transfer across devices. Enhanced backend architecture to reduce data-sharing latency by 20%.',
         tools: ['React.js', 'Node.js', 'MongoDB'],
         role: 'Full Stack Developer',
-       
+        image: ayla,
+    },
+    {
+        id: 4,
+        name: 'Collaborative Travel Planner Web App',
+        description: 'Built a collaborative travel app with real-time updates and Google Maps integration, reducing trip planning time by 30%. Added budget tracking and cost-splitting, enhancing group travel experience and boosting user engagement by 25%.',
+        tools: ['React.js', 'Firebase Firestore', 'Google Maps API', 'Node.js', 'MongoDB'],
+        role: 'Full Stack Developer',
         image: ayla,
     }
 ];
