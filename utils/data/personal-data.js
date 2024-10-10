@@ -14,5 +14,5 @@ export const personalData = {
   stackOverflow: '', // Add Stack Overflow link if applicable.
   leetcode: 'https://leetcode.com/u/mohd_sajjadzakirr/',
   devUsername: 'mohdsajjadzakirr',
-  resume: "https://drive.google.com/file/d/1u_safXREoXcyJdXAP_ZjvRze3dz8Ls5F/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1sUlou7Kn4Nq3oCrYIwYaO5wLaB02-2vH/view?usp=sharing"
 };
