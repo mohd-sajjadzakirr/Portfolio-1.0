@@ -34,7 +34,7 @@ export const projectsData = [
         name: 'Collaborative Travel Planner Web App',
         description: 'Built a collaborative travel app with real-time updates and Google Maps integration, reducing trip planning time by 30%. Added budget tracking and cost-splitting, enhancing group travel experience and boosting user engagement by 25%.',
         tools: ['React.js', 'Firebase Firestore', 'Google Maps API', 'Node.js','Hotel API'],
-        role: 'Full Stack Developer',
+        role: 'Full Stack Developer ',
         image: ayla,
     },
     {
