@@ -17,7 +17,8 @@ async function getData() {
 
   const data = await res.json();
 
-  const filtered = data.filter((item) => item?.cover_image).sort(() => Math.random() - 0.5);
+  // Show all blogs, even those without a cover image
+  const filtered = data.sort(() => Math.random() - 0.5);
 
   return filtered;
 };
