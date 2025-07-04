@@ -36,5 +36,16 @@ export const projectsData = [
         tools: ['React.js', 'Firebase Firestore', 'Google Maps API', 'Node.js', 'MongoDB'],
         role: 'Full Stack Developer',
         image: ayla,
-    }
+    },
+    {
+    id: 5,
+    name: 'ChatConnect - Real-time Chat App',
+    description: 'Built a production-ready chat app with real-time messaging, video calling, and friend management. Integrated Firebase for authentication and Firestore for data storage. Used Stream Video for seamless calling experience and enhanced UX with invite code system.',
+    tools: ['React', 'Firebase', 'Firestore', 'Stream Video', 'Tailwind CSS', 'Node.js'],
+    role: 'Full Stack Developer',
+    code: '',
+    demo: '',
+    image: ayla,
+}
+
 ];
