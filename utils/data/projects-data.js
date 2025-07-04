@@ -33,7 +33,7 @@ export const projectsData = [
         id: 4,
         name: 'Collaborative Travel Planner Web App',
         description: 'Built a collaborative travel app with real-time updates and Google Maps integration, reducing trip planning time by 30%. Added budget tracking and cost-splitting, enhancing group travel experience and boosting user engagement by 25%.',
-        tools: ['React.js', 'Firebase Firestore', 'Google Maps API', 'Node.js', 'MongoDB'],
+        tools: ['React.js', 'Firebase Firestore', 'Google Maps API', 'Node.js','Hotel API'],
         role: 'Full Stack Developer',
         image: ayla,
     },
@@ -43,8 +43,6 @@ export const projectsData = [
     description: 'Built a production-ready chat app with real-time messaging, video calling, and friend management. Integrated Firebase for authentication and Firestore for data storage. Used Stream Video for seamless calling experience and enhanced UX with invite code system.',
     tools: ['React', 'Firebase', 'Firestore', 'Stream Video', 'Tailwind CSS', 'Node.js'],
     role: 'Full Stack Developer',
-    code: '',
-    demo: '',
     image: ayla,
 }
 
